@@ -1,21 +1,5 @@
 # 01_INTRODUCTION
 
-## Objectif du cours
-
-Le but de cette session est de réviser les concepts fondamentaux de PHP, nécessaires pour bien comprendre et utiliser Symfony.
-
-**Pourquoi PHP est-il important pour Symfony ?**
-
-Symfony est conçu pour simplifier la gestion des applications PHP, mais comprend de nombreux composants qui reposent directement sur PHP (gestion des routes, contrôleurs, formulaires et bases de données) qui sont directement connectés à des concepts PHP tels que les variables, les tableaux, les fonctions et la POO.
-
-**Prérequis**
-
-Les étudiants doivent déjà avoir une connaissance de base de la programmation. Aucune connaissance préalable de Symfony n'est nécessaire, mais une bonne maîtrise de PHP est essentielle.
-
-**Plan**
-
-Le cours abordera les bases de PHP (syntaxe, variables, contrôles de flux, fonctions), les concepts avancés (POO, tableaux), et les bonnes pratiques en matière de sécurité et de gestion des données.
-
 ## Présentation de PHP
 
 Le PHP (Hypertext Preprocessor) est un langage de programmation utilisé pour le développement web pour créer des pages dynamiques (pages générées à la demande != pages statiques). C'est un langage interprété (non compilé) côté serveur, prévue pour intéragir avec des bases de données et générant du contenue HTML envoyé au navigateur de l'utilisateur.
